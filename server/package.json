@@ -1,0 +1,21 @@
+{
+  "name": "chat_exam",
+  "version": "1.0.0",
+  "description": "creating a sample web app chat using socket and vuejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Chat",
+    "Exam"
+  ],
+  "author": "John Paul F. Solo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.19.0",
+    "socket.io": "^2.2.0"
+  }
+}
